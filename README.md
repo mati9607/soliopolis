@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I’m Matías
+
+💻 Developer @ Vestra Labs
+⚡ Focused on building scalable systems & minimal code with maximal vision.
+🌍 Working across backend · infra · distributed systems
+👨‍👧 Dad · Builder · Always learning
+
+🔧 Tech Stack
+
+Languages: TypeScript · Rust · Python · SQL
+
+Infra / Tools: Docker · Kubernetes · Redis · GraphQL · Kafka · GitHub Actions
+
+Other: CI/CD pipelines · Cloud-native architectures · Monitoring (Prometheus + Grafana)
+
+🌱 What I’m working on
+
+Scaling Vestra Labs from prototype → production
+
+Optimizing APIs for speed + reliability
+
+Keeping code clean, minimal, and efficient
+
+📫 Connect
+
+Twitter/X: @mati96_07
 
 
-**soliopolis/soliopolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Minimalist code. Maximalist vision.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
